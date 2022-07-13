@@ -1,0 +1,5 @@
+.container{border: 1px solid gray;
+flex-flow: row wrap;
+justify-content: center;
+align-content: center;
+align-items: center;}
